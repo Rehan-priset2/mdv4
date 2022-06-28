@@ -1,12 +1,12 @@
 {
-  "ownerNumber": ["6285921165857@s.whatsapp.net"],
-  "ownerName": ["Christian ID"],
-  "Instagram": "chris.tianid",
-  "botName": "Izumi - MD",
+  "ownerNumber": ["6283898839679@s.whatsapp.net"],
+  "ownerName": ["HannOfc"],
+  "Instagram": "g tau🗿",
+  "botName": "HannnBot-MD",
   "sessionName": "session",
   "pathimg": "./media/chris2.jpg",
-  "gamewaktu": 90,
-  "limitCount": 40,
+  "gamewaktu": 20,
+  "limitCount": 10000,
   "gcount": {
 	"prem": 9999,
 	"user": 30
